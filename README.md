@@ -108,7 +108,5 @@ Pull requests are welcome! For major changes, open an issue first to discuss wha
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
-## 👨‍💻 Author
 
-Built by [Engineering Digest](https://engineeringdigest.in) and contributors.
 
